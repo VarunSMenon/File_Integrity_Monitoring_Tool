@@ -19,5 +19,5 @@ Built using [`watchdog`](https://pypi.org/project/watchdog/) and Python's built-
 
 1. Clone this repository:
    ```
-   git clone https://github.com/<your-username>/File-Monitor-With-Email-Alerts.git
-   cd File-Monitor-With-Email-Alerts
+   git clone https://github.com/VarunSMenon/File_Integrity_Monitoring_Tool.git
+   cd File_Integrity_Monitoring_Tool
